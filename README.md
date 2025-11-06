@@ -40,3 +40,4 @@ Apache License 2.0 — free for academic and research use with attribution.
 🤝 Author
 Developed independently by Lin Dingshan
 📧 l1055505011@gmail.com
+🔗https://github.com/xiaolin200206/Agri-EfficientNet/tree/main
